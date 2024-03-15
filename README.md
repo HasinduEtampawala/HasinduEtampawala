@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasindu Etampawala</h1>
-<h3 align="center">IT Enthusiast</h3>
+
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=IT+Enthusiast;LEO;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
 
 
