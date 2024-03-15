@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hasindu Etampawala</h1>
 <h3 align="center">IT Enthusiast</h3>
 
+
+
+| ![Hasi's github stats](https://github-readme-stats.vercel.app/api?username=hasinduetampawala&show_icons=true&theme=tokyonight) | ![Hasi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasinduetampawala&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinduetampawala&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hasinduetampawala&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasinduetampawala&label=Profile%20views&color=0e75b6&style=flat" alt="hasinduetampawala" /> </p>
 
 - 🌱 I’m currently learning **java**
