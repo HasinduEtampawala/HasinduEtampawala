@@ -33,7 +33,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasinduetampawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasinduetampawala" height="30" width="50" /></a>
-<a href="https://stackoverflow.com/users/user:19968559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19968559" height="30" width="50" /></a>
+<a href="https://stackoverflow.com/users/19968559/hasindu-etampawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19968559" height="30" width="50" /></a>
 <a href="https://fb.com/hasindu.etampawala.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasinduetampawala" height="30" width="50" /></a>
 <a href="https://instagram.com/_im_ha_c_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_im_ha_c_" height="30" width="50" /></a>
 <a href="https://discord.gg/9655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9655" height="30" width="50" /></a>
